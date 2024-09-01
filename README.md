@@ -4,9 +4,9 @@ App
 GasStationApp is a fuel management system designed to track and manage fuel transactions, nozzle readings, and payments at a gas station. It allows users to monitor fuel usage, track sales data, and generate reports for better management and decision-making.
 
 Features
--Track and manage fuel transactions
--Record and view financial data
--Monitor fuel levels, stock variances, account holder balances, and sales data
+1.) Track and manage fuel transactions
+2.) Record and view financial data
+3.) Monitor fuel levels, stock variances, account holder balances, and sales data
 
 Installation Guide: Spring Boot Java Application with MySQL
 Prerequisites
