@@ -1,0 +1,11 @@
+package com.application.Application.repo;
+
+import com.application.Application.model.AccountHolder;
+import com.application.Application.model.NozzleReading;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface AccountHolderRepo extends JpaRepository<AccountHolder, Long> {
+
+}
