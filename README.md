@@ -16,15 +16,15 @@ Prerequisites
 -IntelliJ IDEA or any IDE with Spring Boot support.
 
 Step 1: Clone the Repository
--Open your terminal.
--Navigate to the directory where you want to clone the project.
--Run the following command to clone the repository.
--Clone project and Navigate into the project directory.
+1.) Open your terminal.
+2.) Navigate to the directory where you want to clone the project.
+3.) Run the following command to clone the repository.
+4.) Clone project and Navigate into the project directory.
 
 Step 2: Configure MySQL Database
--Create a new MySQL database.
--Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database details.
+5.) Create a new MySQL database.
+6.) Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database details.
 
 Step 3: Build the Project
--In the terminal, run the following command to build the project: mvn clean install
--After a successful build, run the application using: mvn spring-boot:run
+7.) In the terminal, run the following command to build the project: mvn clean install
+8.) After a successful build, run the application using: mvn spring-boot:run
