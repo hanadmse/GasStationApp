@@ -1,7 +1,7 @@
-App
+Fuel Track Application
 
 
-GasStationApp is a fuel management system designed to track and manage fuel transactions, nozzle readings, and payments at a gas station. It allows users to monitor fuel usage, track sales data, and generate reports for better management and decision-making.
+Fuel Track is a fuel management system designed to track and manage fuel transactions, nozzle readings, and payments at a gas station. It allows users to monitor fuel usage, track sales data, and generate reports for better management and decision-making.
 
 Features
 
@@ -30,9 +30,7 @@ Step 1: Clone the Repository
 
 2.) Navigate to the directory where you want to clone the project.
 
-3.) Run the following command to clone the repository.
-
-4.) Clone project and Navigate into the project directory.
+4.) Clone the project and navigate into the project directory.
 
 
 Step 2: Configure MySQL Database
