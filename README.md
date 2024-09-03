@@ -12,7 +12,7 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
 3.) Monitors stock-sales variances, credit holder balances, fuel levels, and sales data.
 
 
-##Installation Guide: Prerequisites
+## Installation Guide: Prerequisites
 
 1.) Java Development Kit (JDK): Ensure JDK 8 or later is installed.
 
