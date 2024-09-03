@@ -5,47 +5,47 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
 
 ## Features
 
-1.) Track and manage fuel transactions
+- Records, calculates, and analyzes financial data
 
-2.) Records, calculates, and analyzes financial data
+- Monitors stock-sales variances, credit holder balances, fuel levels, and sales data.
 
-3.) Monitors stock-sales variances, credit holder balances, fuel levels, and sales data.
+- Track and manage fuel transactions
 
 
 ## Installation Guide: Prerequisites
 
-1.) Java Development Kit (JDK): Ensure JDK 8 or later is installed.
+- Java Development Kit (JDK): Ensure JDK 8 or later is installed.
 
-2.) Maven: Installed and configured on your system.
+- Maven: Installed and configured on your system.
 
-3.) MySQL Database: Ensure MySQL is installed and running.
+- MySQL Database: Ensure MySQL is installed and running.
 
-4.) IntelliJ IDEA or any IDE with Spring Boot support.
+- IntelliJ IDEA or any IDE with Spring Boot support.
 
-5.) Postman: Installed for API testing.
+- Postman: Installed for API testing.
 
 
 ## Clone the Repository
 
-1.) Open your terminal.
+- Open your terminal.
 
-2.) Navigate to the directory where you want to clone the project.
+- Navigate to the directory where you want to clone the project.
 
-3.) Clone the project and navigate into the project directory.
+- Clone the project and navigate into the project directory.
 
 
 ## Configure MySQL Database
 
-5.) Create a new MySQL database.
+- Create a new MySQL database.
 
-6.) Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database details.
+- Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database details.
 
 
 ## Build the Project
 
-7.) In the terminal, run the following command to build the project: mvn clean install
+- In the terminal, run the following command to build the project: mvn clean install
 
-8.) After a successful build, run the application using: mvn spring-boot:run
+- After a successful build, run the application using: mvn spring-boot:run
 
 
 ## Using Postman to Add Data from Client
