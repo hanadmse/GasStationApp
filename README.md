@@ -1,9 +1,9 @@
-Fuel Track Application
+## Fuel Track Application
 
 
 Fuel Track is a fuel management system designed to track and manage fuel transactions, nozzle readings, and payments at a gas station. It allows users to monitor fuel usage, track sales data, and generate reports for better management and decision-making. In the current version, Fuel Track is implemented as a backend REST API built using Spring Boot and designed to receive information from the client in JSON format, making it easy for modern applications and front-end systems to interact with the backend REST API.
 
-Features
+## Features
 
 1.) Track and manage fuel transactions
 
@@ -12,9 +12,9 @@ Features
 3.) Monitors stock-sales variances, credit holder balances, fuel levels, and sales data.
 
 
-Installation Guide: Spring Boot Java Application with MySQL
+##Installation Guide: Spring Boot Java Application with MySQL
 
-Prerequisites
+##Prerequisites
 
 1.) Java Development Kit (JDK): Ensure JDK 8 or later is installed.
 
@@ -27,7 +27,7 @@ Prerequisites
 5.) Postman: Installed for API testing.
 
 
-Step 1: Clone the Repository
+## Clone the Repository
 
 1.) Open your terminal.
 
@@ -36,21 +36,21 @@ Step 1: Clone the Repository
 4.) Clone the project and navigate into the project directory.
 
 
-Step 2: Configure MySQL Database
+## Configure MySQL Database
 
 5.) Create a new MySQL database.
 
 6.) Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database details.
 
 
-Step 3: Build the Project
+## Build the Project
 
 7.) In the terminal, run the following command to build the project: mvn clean install
 
 8.) After a successful build, run the application using: mvn spring-boot:run
 
 
-Step 4: Using Postman to Add Data from Client
+## Using Postman to Add Data from Client
 
 9.) Open Postman and create a new POST request.
 
