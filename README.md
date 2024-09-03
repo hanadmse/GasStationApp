@@ -9,7 +9,7 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
 
 - Monitors stock-sales variances, credit holder balances, fuel levels, and sales data.
 
-- Track and manage fuel transactions
+- Tracks and manages fuel transactions
 
 
 ## Installation Guide: Prerequisites
