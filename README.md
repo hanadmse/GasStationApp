@@ -1,7 +1,7 @@
 ## Fuel Track Application
 
 
-Fuel Track is a fuel management system designed to track and manage fuel transactions, pump readings, and payments at a gas station. It allows users to monitor fuel usage, track sales data, and credit holder balances for better management and decision-making. In the current version, Fuel Track is implemented as a backend REST API built using Spring Boot and is designed to receive information from the client in JSON format, making it easy for front-end systems to interact with the backend REST API.
+Fuel Track is a fuel management system designed to track and manage fuel transactions, pump readings, and payments at a gas station. It allows users to monitor fuel usage, track sales data, and manage credit holder balances for better management and decision-making. In the current version, Fuel Track is implemented as a backend REST API built using Spring Boot and is designed to receive information from the client in JSON format, making it easy for front-end systems to interact with the backend REST API.
 
 ## Features
 
