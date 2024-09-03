@@ -31,7 +31,7 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
 
 2.) Navigate to the directory where you want to clone the project.
 
-4.) Clone the project and navigate into the project directory.
+3.) Clone the project and navigate into the project directory.
 
 
 ## Configure MySQL Database
@@ -52,7 +52,7 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
 
 9.) Open Postman and create a new POST request.
 
-10.) Set the Request URL: Enter the URL of the Fuel Track API endpoint where you want to send data. For example, to add a new shift: http://localhost:8080/api/shiftId
+10.) Set the Request URL: Enter the URL of the Fuel Track API endpoint where you want to send data. For example, to add a new shift: http://localhost:8080/shiftId
 
 11.) Set the Request Body: In the Body tab, select raw and choose JSON from the dropdown menu. Enter the JSON data for the fuel transaction in the request body. Example:
       { "date": "2024-08-31", 
