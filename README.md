@@ -58,5 +58,5 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
       { "date": "2024-08-31", 
         "shiftPeriod": "DAY"
       }
-12.) Send the request and verify Data in MySQL
+12.) Send the request and verify the data entry in MySQL
 
