@@ -50,13 +50,13 @@ Fuel Track is a fuel management system designed to track and manage fuel transac
 
 ## Using Postman to Add Data from Client
 
-9.) Open Postman and create a new POST request.
+- Open Postman and create a new POST request.
 
-10.) Set the Request URL: Enter the URL of the Fuel Track API endpoint where you want to send data. For example, to add a new shift: http://localhost:8080/shiftId
+- Set the Request URL: Enter the URL of the Fuel Track API endpoint where you want to send data. For example, to add a new shift: http://localhost:8080/shiftId
 
-11.) Set the Request Body: In the Body tab, select raw and choose JSON from the dropdown menu. Enter the JSON data for the fuel transaction in the request body. Example:
+- Set the Request Body: In the Body tab, select raw and choose JSON from the dropdown menu. Enter the JSON data for the fuel transaction in the request body. Example:
       { "date": "2024-08-31", 
         "shiftPeriod": "DAY"
       }
-12.) Send the request and verify the data entry in MySQL
+- Send the request and verify the data entry in MySQL
 
